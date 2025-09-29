@@ -121,9 +121,9 @@ def load_coords(path, pickup=True):
     return coords[['Location', 'Latitude', 'Longitude']]
 
 # Paths
-MAIN_PATH = r"D:\OMNIe\Dashboard\Uber_DT_Sorted.csv"
-PICKUP_COORDS_PATH = r"D:\OMNIe\Dashboard\pickup_location_coords_delhi.csv"
-DROP_COORDS_PATH = r"D:\OMNIe\Dashboard\drop_location_coords_delhi.csv"
+MAIN_PATH = r"https://github.com/Dipin-Raj/Uber-Ride-Analytics-2024/blob/main/Data/Uber_DT_Sorted.csv"
+PICKUP_COORDS_PATH = r"https://github.com/Dipin-Raj/Uber-Ride-Analytics-2024/blob/main/Data/pickup_location_coords_delhi.csv"
+DROP_COORDS_PATH = r"https://github.com/Dipin-Raj/Uber-Ride-Analytics-2024/blob/main/Data/drop_location_coords_delhi.csv"
 
 df = load_main(MAIN_PATH)
 pickup_coords = load_coords(PICKUP_COORDS_PATH, pickup=True)
