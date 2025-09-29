@@ -53,7 +53,8 @@ The dashboard uses:
 - 📍[@Dipin-Raj](https://github.com/Dipin-Raj)
 -  📧 Contact: dipinr505@gmail.com
 
-## ⚡ “Turning raw ride data into actionable insights, one visualization at a time.”
+⚡ “Turning raw ride data into actionable insights, one visualization at a time.”
+
 
 
 
