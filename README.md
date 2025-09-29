@@ -38,11 +38,11 @@ The dashboard uses:
    ```bash
    streamlit run main.py
 
-📊 Dashboard Preview
-- 🔹 KPIs: Total bookings, completed rides, cancellations, average booking value
-- 🔹 Trends: Time of day demand, weekday bookings, monthly booking patterns
-- 🔹 Insights: Revenue per vehicle, booking value distributions, repeat vs one-time customers
-- 🔹 Maps: Pickup and drop-off hotspots across Delhi NCR
+## 📊 Dashboard Preview
+🔹 **KPIs:** Total bookings, completed rides, cancellations, average booking value  
+🔹 **Trends:** Time of day demand, weekday bookings, monthly booking patterns  
+🔹 **Insights:** Revenue per vehicle, booking value distributions, repeat vs one-time customers  
+🔹 **Maps:** Pickup and drop-off hotspots across Delhi NCR  
 
 ## 📌 Notes & Assumptions
 - Expects these key columns: `Date, Time, Booking ID, Booking Status, Customer ID, Vehicle Type, Pickup Location, Drop Location, Booking Value, Ride Distance, Ratings`.
@@ -54,6 +54,7 @@ The dashboard uses:
 -  📧 Contact: dipinr505@gmail.com
 
 ⚡ “Turning raw ride data into actionable insights, one visualization at a time.”
+
 
 
 
