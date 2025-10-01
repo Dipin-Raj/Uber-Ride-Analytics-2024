@@ -5,7 +5,7 @@ This is an interactive **Streamlit dashboard** to explore **Uber ride trends, ca
 You can access the deployed dashboard here:
 [**EDA Analysis: Uber Ride Analytics 2024**](https://uber-ride-analytics-2024-by-dipin.streamlit.app/)
 
-**Note:** If the app is asleep due to inactivity, simply click the button to wake it.
+**📌Note:** If the app is asleep due to inactivity, simply click the button to wake it.
 
 ## ✨ Features
 - 📊 **Bookings & Cancellations** — Analyze daily, weekly, and monthly booking patterns.
@@ -59,6 +59,7 @@ The dashboard uses:
 -  📧 Contact: dipinr505@gmail.com
 
 ⚡ “Turning raw ride data into actionable insights, one visualization at a time.”
+
 
 
 
